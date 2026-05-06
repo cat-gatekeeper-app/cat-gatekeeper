@@ -2,8 +2,8 @@
 
 # 🐾 Cat Gatekeeper
 
-[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](#installation)
-[![OS - macOS](https://img.shields.io/badge/OS-macOS-black?logo=apple&logoColor=white)](#installation)
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](../../releases/latest)
+[![OS - macOS](https://img.shields.io/badge/OS-macOS-black?logo=apple&logoColor=white)](../../releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Original Idea - konekone2026](https://img.shields.io/badge/Original_Idea-konekone2026-orange)](#acknowledgments)
 
