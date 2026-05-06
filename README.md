@@ -9,7 +9,7 @@
 
 *That very same ginger cat stepped out of the browser to save your productivity system-wide!*
 
-[Download for Windows (.exe)](#) • [Download for macOS (.dmg)](#) • [Screenshots](#demonstration) • [Configuration](#flexible-configuration)
+[Download for Windows (.exe)](../../releases) • [Download for macOS (.dmg)](../../releases) • [Screenshots](#demonstration) • [Configuration](#flexible-configuration)
 
 </div>
 
